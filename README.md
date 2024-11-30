@@ -1,4 +1,4 @@
 # A15_motors 
 лёгкая библиотека для H–мостовых дизайнеров!
 ## благодарность за доработку
-[DIY—Electronics](https://github.com/DIY-Elecron1cs)
+[DIY—Electronics](https://github.com/DIY-Elecron1cs) тк он большую часть пилил и тестил!
